@@ -1,5 +1,11 @@
 from index import Book, Movie
 
+"""
+ai 활용 부분:
+book 객체의 get_info() 메서드를 실행하고
+그 결과를 출력한다.
+
+"""
 book = Book(
     "Python Programming",
     "홍길동",
