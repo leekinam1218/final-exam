@@ -36,3 +36,6 @@ print(book.get_info())
 
 ## 6. 작성자
 컴퓨터공학과 202620880 이기남
+
+## 깃허브 URL
+https://github.com/leekinam1218/final-exam#
